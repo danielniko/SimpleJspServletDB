@@ -1,4 +1,4 @@
 driver=com.mysql.jdbc.Driver
 url=jdbc:mysql://localhost:3306/UserDB
-user=root
-password=apollo87
+user=admin
+password=test
